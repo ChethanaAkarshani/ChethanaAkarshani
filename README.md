@@ -31,6 +31,14 @@ I am committed to continuous learning 📚, hands-on project work 💻, and impr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 
+  <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" title="Canva" alt="Canva" width="40" height="40"/>
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
