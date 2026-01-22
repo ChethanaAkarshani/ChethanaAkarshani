@@ -32,10 +32,9 @@ I am committed to continuous learning 📚, hands-on project work 💻, and impr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 
 <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://logo.svgcdn.com/l/adobe-illustrator.png" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>
 </p>
 
