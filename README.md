@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hi , I'm Chethana Akarshani </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-🎓 IT Undergraduate | 🌐 Web Development & UI/UX Design | 🖧 Networking Enthusiast | 🚀 Learning through hands-on projects
+🎓 IT Undergraduate | 🌐 UI/UX Design and Web Development | 🖧 Networking Enthusiast | 🚀 Learning through hands-on projects
 </p>
 
     
  ## <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="25"/> About Me
 
-I am an IT undergraduate at Rajarata University of Sri Lanka with a strong interest in UI/UX Design 🌐 and Web development 🎨, and a solid foundation in Networking 🖧. I am passionate about creating intuitive, user-centered digital experiences while building reliable and scalable systems behind them.
+I am an IT undergraduate at Rajarata University of Sri Lanka with a strong interest in UI/UX Design 🌐 and Web Development 🎨, and a solid foundation in Networking 🖧. I am passionate about creating intuitive, user-centered digital experiences while building reliable and scalable systems behind them.
 
 I am committed to continuous learning 📚, hands-on project work 💻, and improving my technical skills across modern web technologies, interface design, and networking concepts. My goal is to contribute to professional, impactful, and well-designed technology solutions 🚀.
 
