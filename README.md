@@ -7,7 +7,7 @@
     
  ## <img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="25"/> About Me
 
-I am an IT undergraduate at Rajarata University of Sri Lanka with a strong interest in Web Development 🌐 and UI/UX Design 🎨, and a solid foundation in Networking 🖧. I am passionate about creating intuitive, user-centered digital experiences while building reliable and scalable systems behind them.
+I am an IT undergraduate at Rajarata University of Sri Lanka with a strong interest in UI/UX Design 🌐 and Web development 🎨, and a solid foundation in Networking 🖧. I am passionate about creating intuitive, user-centered digital experiences while building reliable and scalable systems behind them.
 
 I am committed to continuous learning 📚, hands-on project work 💻, and improving my technical skills across modern web technologies, interface design, and networking concepts. My goal is to contribute to professional, impactful, and well-designed technology solutions 🚀.
 
